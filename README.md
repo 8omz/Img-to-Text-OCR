@@ -1,7 +1,3 @@
-Here's a refined version of your readme that highlights the use of Express and other technologies:
-
----
-
 # Image to Text OCR with Express
 
 Hey! This project showcases an Image to Text OCR (Optical Character Recognition) application using Tesseraact.js. It allows users to upload an image file, which is then processed using Tesseract.js to extract text from the image.
@@ -48,11 +44,14 @@ Hey! This project showcases an Image to Text OCR (Optical Character Recognition)
 
 4. **Open in Browser**: Open your browser and navigate to `http://localhost:3000` to use the application.
 
+## Future Enhancements
+
+- Improve OCR accuracy and speed.
+- Enhance user interface for better user experience.
+- Add support for multiple languages and fonts.
+- Planned feature to push OCR results directly to a Discord bot, enabling real-time dissemination of OCR data into designated channels.
+
 ## Additional Notes
 
 - This project is a demonstration of integrating OCR capabilities into a web application using modern JavaScript technologies.
 - Feel free to explore and modify the code according to your needs.
-
----
-
-Feel free to adjust the content further to match your specific project details and style preferences.
