@@ -28,8 +28,7 @@ Hey! This project showcases an Image to Text OCR (Optical Character Recognition)
 
 1. **Clone Repository**: Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your/repository.git
-   cd repository-name
+   git clone https://github.com/8omz/Img-to-Text-OCR.git
    ```
 
 2. **Install Dependencies**: Install necessary dependencies using npm.
